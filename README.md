@@ -6,8 +6,9 @@ Fog computing is one of the most widely used paradigms for analyzing and computi
 
 ## Quick Start Guide
 To run the Multi_Simulation/Single_Simulation  technique , install required packages using
+''
 python3 install.py
-
+''
 To run the code with the required scheduler, modify line 107 of `main.py` to one of the several options Single_Simulation, Multiple_Simulation
 ''
 scheduler = Multiple_Simulation()
