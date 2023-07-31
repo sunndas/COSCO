@@ -1,4 +1,4 @@
-<h1 align="center">TESCO Scheduler</h1>
+<h1 align="center">TESCO: Multiple Simulations based AI-augmented Fog computing for QoS Optimization</h1>
 <div align="center">
 
 ## Abstract
