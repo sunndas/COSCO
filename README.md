@@ -18,6 +18,6 @@ python3 main.py
 
 
 ## Cite this work
-S. Iftikhar et al., "TESCO: Multiple Simulations based AI-augmented Fog computing for QoS Optimization," 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), Haikou, China, 2022, pp. 2092-2099, doi: 10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00302.
+Sundas Iftikhar, Uttkarsh Raj, Shreshth Tuli, Muhammed Golec, Deepraj Chowdhury, Sukhpal Singh Gill, Steve Uhlig, TESCO: Multiple Simulations based AI-augmented Fog computing for QoS Optimization, 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), Haikou, China, 2022, pp. 2092-2099, https://doi.org/10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00302
 
 
